@@ -49,9 +49,13 @@ async function draw_cards(event) {
         // Iterate over the array of card objects
         cardsToShow.forEach(card => {
             const cardImage = document.createElement('img');
+            const cardLink = document.createElement('a');
+
             cardImage.src = card.image_link;
             cardImage.alt = card.name;
-            cardImage.classList.add('card-image'); // Optional: Add a class for styling
+            cardLink.href = card.link;
+            cardImage.classList.add('card-image'); 
+            cardLink.appendChild(cardImage);  // Wrap the image in the link
             cardsWrapper.appendChild(cardImage);
         });
 

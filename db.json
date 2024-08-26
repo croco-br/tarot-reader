@@ -1,0 +1,394 @@
+{
+  "tarot_cards": [
+      {
+          "name": "The Hermit",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/09-TheHermit.jpg"
+      },
+      {
+          "name": "The Hierophant",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/05-TheHierophant.jpg"
+      },
+      {
+          "name": "Ten of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords13.jpg"
+      },
+      {
+          "name": "The Chariot",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/07-TheChariot.jpg"
+      },
+      {
+          "name": "Knight of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles12.jpg"
+      },
+      {
+          "name": "Six of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands06.jpg"
+      },
+      {
+          "name": "Six of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles06.jpg"
+      },
+      {
+          "name": "Four of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords04.jpg"
+      },
+      {
+          "name": "Nine of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles09.jpg"
+      },
+      {
+          "name": "Judgement",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/20-Judgement.jpg"
+      },
+      {
+          "name": "The Tower",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/16-TheTower.jpg"
+      },
+      {
+          "name": "Justice",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/11-Justice.jpg"
+      },
+      {
+          "name": "Ace of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles01.jpg"
+      },
+      {
+          "name": "Page of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands11.jpg"
+      },
+      {
+          "name": "Temperance",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/14-Temperance.jpg"
+      },
+      {
+          "name": "Six of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups06.jpg"
+      },
+      {
+          "name": "Three of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles03.jpg"
+      },
+      {
+          "name": "The Magician",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/01-TheMagician.jpg"
+      },
+      {
+          "name": "The Lovers",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/06-TheLovers.jpg"
+      },
+      {
+          "name": "The Devil",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/15-TheDevil.jpg"
+      },
+      {
+          "name": "Four of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups04.jpg"
+      },
+      {
+          "name": "King of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands14.jpg"
+      },
+      {
+          "name": "Seven of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups07.jpg"
+      },
+      {
+          "name": "The High Priestess",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/02-TheHighPriestess.jpg"
+      },
+      {
+          "name": "The Fool",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/00-TheFool.jpg"
+      },
+      {
+          "name": "Two of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords02.jpg"
+      },
+      {
+          "name": "Five of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands05.jpg"
+      },
+      {
+          "name": "The Sun",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/19-TheSun.jpg"
+      },
+      {
+          "name": "Five of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords05.jpg"
+      },
+      {
+          "name": "King of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups14.jpg"
+      },
+      {
+          "name": "Two of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups02.jpg"
+      },
+      {
+          "name": "The World",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/21-TheWorld.jpg"
+      },
+      {
+          "name": "Page of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords11.jpg"
+      },
+      {
+          "name": "Ace of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords01.jpg"
+      },
+      {
+          "name": "Seven of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles07.jpg"
+      },
+      {
+          "name": "Nine of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands09.jpg"
+      },
+      {
+          "name": "Two of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles02.jpg"
+      },
+      {
+          "name": "Knight of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands12.jpg"
+      },
+      {
+          "name": "Three of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords03.jpg"
+      },
+      {
+          "name": "Ten of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups10.jpg"
+      },
+      {
+          "name": "Seven of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords07.jpg"
+      },
+      {
+          "name": "Page of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups11.jpg"
+      },
+      {
+          "name": "Queen of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands13.jpg"
+      },
+      {
+          "name": "Three of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups03.jpg"
+      },
+      {
+          "name": "King of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords14.jpg"
+      },
+      {
+          "name": "King of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles14.jpg"
+      },
+      {
+          "name": "Five of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles05.jpg"
+      },
+      {
+          "name": "Queen of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords12.jpg"
+      },
+      {
+          "name": "Four of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands04.jpg"
+      },
+      {
+          "name": "Four of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles04.jpg"
+      },
+      {
+          "name": "Ace of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands01.jpg"
+      },
+      {
+          "name": "Six of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords06.jpg"
+      },
+      {
+          "name": "Eight of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands08.jpg"
+      },
+      {
+          "name": "Eight of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups08.jpg"
+      },
+      {
+          "name": "Two of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands02.jpg"
+      },
+      {
+          "name": "Eight of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles08.jpg"
+      },
+      {
+          "name": "The Moon",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/18-TheMoon.jpg"
+      },
+      {
+          "name": "Nine of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords10.jpg"
+      },
+      {
+          "name": "Five of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups05.jpg"
+      },
+      {
+          "name": "The Emperor",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/04-TheEmperor.jpg"
+      },
+      {
+          "name": "Wheel of Fortune",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/10-WheelOfFortune.jpg"
+      },
+      {
+          "name": "The Empress",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/03-TheEmpress.jpg"
+      },
+      {
+          "name": "Page of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles11.jpg"
+      },
+      {
+          "name": "The Star",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/17-TheStar.jpg"
+      },
+      {
+          "name": "Ten of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands10.jpg"
+      },
+      {
+          "name": "Ace of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups01.jpg"
+      },
+      {
+          "name": "Ten of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles10.jpg"
+      },
+      {
+          "name": "Death",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/13-Death.jpg"
+      },
+      {
+          "name": "Strength",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/08-Strength.jpg"
+      },
+      {
+          "name": "The Hanged Man",
+          "arcana": "Maior",
+          "image_link": "/static/img/cards/12-TheHangedMan.jpg"
+      },
+      {
+          "name": "Eight of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords09.jpg"
+      },
+      {
+          "name": "Three of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands03.jpg"
+      },
+      {
+          "name": "Queen of Pentacles",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Pentacles13.jpg"
+      },
+      {
+          "name": "Eight of Swords",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Swords08.jpg"
+      },
+      {
+          "name": "Seven of Wands",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Wands07.jpg"
+      },
+      {
+          "name": "Nine of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups09.jpg"
+      },
+      {
+          "name": "Queen of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups13.jpg"
+      },
+      {
+          "name": "Page of Cups",
+          "arcana": "Menor",
+          "image_link": "/static/img/cards/Cups12.jpg"
+      }
+  ]
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarot Reader</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/reset.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/base.css') }}">
+    <script src="{{ url_for('static', filename='js/index.js') }}" defer></script>
+</head>
+
+<body>
+    <div class="tarot-container">
+        <div class="tarot-settings">
+            <label for="readingType">Escolha a leitura:</label>
+            <select id="readingType">
+                <option value="single">Leitura Única</option>
+                <option value="three-card">Leitura de Três Cartas</option>
+                <option value="celtic-cross">Cruz Celta</option>
+                <option value="past-present-future">Passado, Presente e Futuro</option>
+                <option value="relationship">Relacionamento</option>
+                <option value="career">Carreira</option>
+                <option value="daily-card">Carta do Dia</option>
+                <option value="horoscope">Horóscopo</option>
+                <option value="decision">Decisão</option>
+                <option value="life-path">Caminho de Vida</option>
+                <option value="spiritual-guidance">Orientação Espiritual</option>
+            </select>
+        </div>
+
+        <button id="drawCardButton" onclick="draw_cards(event)">Sortear Cartas</button>
+
+        <div class="card-display">
+            <div class="card" id="tarotCard">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

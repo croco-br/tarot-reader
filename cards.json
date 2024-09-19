@@ -69,7 +69,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Pentacles09.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Nove_de_Moedas",
             "description": "Conforto e sucesso material."
         },
         {
@@ -101,7 +101,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Pentacles01.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/%C3%81s_de_Moedas",
             "description": "Novos começos financeiros e sucesso material."
         },
         {
@@ -109,7 +109,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Wands11.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Princesa_de_Bast%C3%B5es",
             "description": "Inspiração e entusiasmo."
         },
         {
@@ -117,7 +117,7 @@
             "arcana": "Maior",
             "image_link": "/static/img/cards/14-Temperance.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/A_Temperan%C3%A7a_(Tarot)",
             "description": "Equilíbrio e moderação."
         },
         {
@@ -125,7 +125,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups06.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Seis_de_Ta%C3%A7as",
             "description": "Memórias e nostalgia."
         },
         {
@@ -133,7 +133,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Pentacles03.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Tr%C3%AAs_de_Moedas",
             "description": "Trabalho em equipe e colaboração."
         },
         {
@@ -149,7 +149,7 @@
             "arcana": "Maior",
             "image_link": "/static/img/cards/06-TheLovers.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Os_Enamorados_(Tarot)",
             "description": "Relacionamentos e escolhas."
         },
         {
@@ -157,7 +157,7 @@
             "arcana": "Maior",
             "image_link": "/static/img/cards/15-TheDevil.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/O_Diabo_(Tarot)",
             "description": "Vícios e materialismo."
         },
         {
@@ -165,7 +165,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups04.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Quatro_de_Ta%C3%A7as",
             "description": "Descontentamento e introspecção."
         },
         {
@@ -173,7 +173,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Wands14.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Rei_de_Bast%C3%B5es",
             "description": "Liderança e visão."
         },
         {
@@ -181,7 +181,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups07.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Sete_de_Ta%C3%A7as",
             "description": "Ilusões e escolhas."
         },
         {
@@ -189,7 +189,7 @@
             "arcana": "Maior",
             "image_link": "/static/img/cards/02-TheHighPriestess.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/A_Sacerdotisa_(Tarot)",
             "description": "Intuição e conhecimento interior."
         },
         {
@@ -205,7 +205,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Swords02.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Dois_de_Espadas",
             "description": "Escolhas e bloqueios emocionais."
         },
         {
@@ -213,7 +213,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Wands05.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Cinco_de_Bast%C3%B5es",
             "description": "Conflito e competição."
         },
         {
@@ -221,7 +221,7 @@
             "arcana": "Maior",
             "image_link": "/static/img/cards/19-TheSun.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/O_Sol_(Tarot)",
             "description": "Alegria e sucesso."
         },
         {
@@ -229,7 +229,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Swords05.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Cinco_de_Espadas",
             "description": "Conflito e perda."
         },
         {
@@ -237,7 +237,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups14.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Rei_de_Ta%C3%A7as",
             "description": "Compaixão e controle emocional."
         },
         {
@@ -245,7 +245,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups02.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Dois_de_Ta%C3%A7as",
             "description": "Parceria e união."
         },
         {
@@ -253,7 +253,7 @@
             "arcana": "Maior",
             "image_link": "/static/img/cards/21-TheWorld.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/O_Mundo_(Tarot)",
             "description": "Conclusão e realização."
         },
         {
@@ -261,7 +261,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Swords11.jpg",
             "keywords": "A,b,c",
-            "link": "https://wiki.deldebbio.com.br/index.php/Arcanos_Menores",
+            "link": "https://wiki.deldebbio.com.br/index.php/Princesa_de_Espadas",
             "description": "Curiosidade e vigilância."
         },
         {

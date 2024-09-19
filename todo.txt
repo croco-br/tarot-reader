@@ -1,2 +1,2 @@
 Adicionar mais metadados no db (description)
-adicionar hover nas cartas
+

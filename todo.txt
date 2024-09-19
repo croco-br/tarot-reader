@@ -1,5 +1,2 @@
-Ajustar leituras de acordo com os desenhos comuns
 Adicionar mais metadados no db (description)
-exibir metadados das cartas nas telas
-corigir botão sumindo
 adicionar hover nas cartas

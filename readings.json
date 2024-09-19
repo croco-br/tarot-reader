@@ -1,0 +1,99 @@
+{
+    "reading_list": {
+        "past-present-future": {
+            "questions": [
+                "O que influenciou a situação atual?",
+                "O que está acontecendo agora?",
+                "O que provavelmente acontecerá no futuro?"
+            ]
+        },
+        "relationship": {
+            "questions": [
+                "Qual é o meu estado emocional atual?",
+                "Como meu parceiro(a) se sente em relação a mim?",
+                "Quais desafios enfrentamos?",
+                "Qual é o futuro deste relacionamento?"
+            ]
+        },
+        "career": {
+            "questions": [
+                "Qual é a minha situação atual na carreira?",
+                "Quais obstáculos estou enfrentando?",
+                "Quais oportunidades estão disponíveis?",
+                "Que ações devo tomar para avançar?"
+            ]
+        },
+        "celtic-cross": {
+            "questions": [
+                "Qual é o problema atual?",
+                "O que está bloqueando ou ajudando?",
+                "Quais a origem da questão?",
+                "O que ocorreu no passado recente?",
+                "O que influencia o meu presente?",
+                "Qual será o resultado em um futuro próximo?",
+                "Qual é o seu pensamento sobre a situação?",
+                "Qual é a energia do ambiente sobre a questão?",
+                "Qual é o melhor curso de ação a ser tomado?",
+                "Qual a tendência de resultado a longo prazo?"
+            ]
+        },
+        "yes-no": {
+            "questions": [
+                "Qual é a pergunta para a qual preciso de uma resposta sim ou não?",
+                "O que está influenciando o resultado?",
+                "Qual conselho devo seguir?"
+            ]
+        },
+        "spiritual-guidance": {
+            "questions": [
+                "Qual é o estado atual da minha jornada espiritual?",
+                "Quais lições devo aprender?",
+                "Qual orientação pode me ajudar a seguir em frente?"
+            ]
+        },
+        "health": {
+            "questions": [
+                "Qual é o estado da minha saúde física?",
+                "Quais áreas precisam de atenção?",
+                "O que posso fazer para melhorar meu bem-estar?"
+            ]
+        },
+        "decision": {
+            "questions": [
+                "Quais são as duas opções que estou considerando?",
+                "Quais são os prós e contras de cada opção?",
+                "Qual será o resultado se eu escolher uma ou outra?"
+            ]
+        },
+        "finance": {
+            "questions": [
+                "Qual é a minha situação financeira atual?",
+                "Quais oportunidades ou desafios estão à frente?",
+                "Quais passos devo tomar para melhorar minha estabilidade financeira?"
+            ]
+        },
+        "self-discovery": {
+            "questions": [
+                "Qual é o meu estado mental atual?",
+                "Quais são minhas forças ocultas?",
+                "Em que devo focar para crescer como pessoa?"
+            ]
+        },
+        "astrological-mandala": {
+            "questions": [
+                "Casa 1: Personalidade & Temperamento",
+                "Casa 2: Dinheiro & Bens Adquiridos",
+                "Casa 3: Comunicação",
+                "Casa 4: Lar & Passado",
+                "Casa 5: Amores & Filhos",
+                "Casa 6: Obrigações diárias & Saúde",
+                "Casa 7: Casamento & Contratos",
+                "Casa 8: Sexo & Finanças do Cônjuge",
+                "Casa 9: Ideais, Estudos Superiores & Grandes Viagens",
+                "Casa 10: Carreira & Empreendimentos",
+                "Casa 11: Amizades & Associações",
+                "Casa 12: Vida Espiritual"
+            ]
+        }
+    }
+}

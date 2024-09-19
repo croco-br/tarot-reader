@@ -1,64 +1,79 @@
-const tarotReadingMap = {
-    'single': 1,                // Leitura Única: 1 card
-    'three-card': 3,            // Leitura de Três Cartas: 3 cards
-    'celtic-cross': 10,         // Cruz Celta: 10 cards
-    'past-present-future': 3,    // Passado, Presente e Futuro: 3 cards
-    'relationship': 5,          // Relacionamento: 5 cards
-    'career': 5,                // Carreira: 5 cards
-    'daily-card': 1,            // Carta do Dia: 1 card
-    'horoscope': 1,             // Horóscopo: 1 card
-    'decision': 2,              // Decisão: 2 cards
-    'life-path': 7,             // Caminho de Vida: 7 cards
-    'spiritual-guidance': 3     // Orientação Espiritual: 3 cards
-};
-
-
-async function draw_cards(event) {
+async function reading(event) {
     event.preventDefault();
-
-    // Get the selected reading type from the dropdown
+    show_loader()
     const readingType = document.getElementById('readingType').value;
-    
-    // Determine the number of cards based on the selected reading type
-    const quantity = tarotReadingMap[readingType] || 1; // Default to 1 card if type not found
-    
 
-    // Fetch cards from the server
-    const response = await fetch('/get_cards', {
+    const response = await fetch('/reading', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ nums_cards: quantity }),
+        body: JSON.stringify({ reading_type: readingType }),
     });
 
     const result = await response.json();
 
-    // Assuming result is an array of card objects
-    if (result && result.length > 0) {
-        const cardContainer = document.getElementById('tarotCard');
-        cardContainer.innerHTML = ''; // Clear previous cards
+    // Verificar se "questions_and_cards" existe no resultado
+    if (result && result.questions_and_cards && result.questions_and_cards.length > 0) {
+        const cardDisplay = document.getElementById('cardDisplay');
+        cardDisplay.innerHTML = ''; // Limpar o conteúdo anterior
 
-        // Create a container for the cards
-        const cardsWrapper = document.createElement('div');
-        cardsWrapper.classList.add('cards-wrapper');
+        // Iterar sobre o array de perguntas e cartas
+        result.questions_and_cards.forEach(pair => {
+            const [question, card] = pair;
 
-        // Display only the number of cards specified
-        const cardsToShow = result.slice(0, quantity);
+            // Criar uma coluna para cada carta
+            const columnDiv = document.createElement('div');
+            columnDiv.classList.add('column', 'is-one-quarter');
 
-        // Iterate over the array of card objects
-        cardsToShow.forEach(card => {
+            // Criar o conteúdo da carta
+            const questionElement = document.createElement('h3');
+            questionElement.textContent = question;
+            questionElement.classList.add('has-text-centered')
+
             const cardImage = document.createElement('img');
             const cardLink = document.createElement('a');
-
             cardImage.src = card.image_link;
             cardImage.alt = card.name;
             cardLink.href = card.link;
-            cardImage.classList.add('card-image'); 
-            cardLink.appendChild(cardImage);  // Wrap the image in the link
-            cardsWrapper.appendChild(cardImage);
-        });
+            cardImage.classList.add('card-image');
+            cardLink.appendChild(cardImage); 
 
-        cardContainer.appendChild(cardsWrapper);
+            const cardName = document.createElement('p');
+            cardName.textContent = `${card.name}`;
+            cardName.classList.add('has-text-centered')
+
+            const cardDescription = document.createElement('p');
+            cardDescription.textContent = `${card.description}`;
+            cardDescription.classList.add('has-text-centered')
+
+            // Criar um container de carta e adicionar os elementos
+            const cardContainer = document.createElement('div');
+            cardContainer.classList.add('card', 'card-hover'); // Adicionado para styling
+
+            cardContainer.appendChild(questionElement);
+            cardContainer.appendChild(cardLink);
+            cardContainer.appendChild(cardName);
+            cardContainer.appendChild(cardDescription);
+
+            // Adicionar o container da carta à coluna
+            columnDiv.appendChild(cardContainer);
+
+            // Adicionar a coluna ao card display
+            cardDisplay.appendChild(columnDiv);
+        });
     }
+
+    hide_loader()
+}
+
+
+function hide_loader() {
+    const loader = document.getElementById('drawCardButton');
+    loader.classList.remove('is-loading');
+}
+
+function show_loader() {
+    const loader = document.getElementById('drawCardButton');
+    loader.classList.add('is-loading');
 }

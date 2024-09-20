@@ -1,6 +1,7 @@
 async function reading(event) {
     event.preventDefault();
     show_loader()
+    setTimeout(2000)
     const readingType = document.getElementById('readingType').value;
 
     const response = await fetch('/reading', {
@@ -30,7 +31,9 @@ async function reading(event) {
             const questionElement = document.createElement('h3');
             questionElement.textContent = question;
             questionElement.classList.add('has-text-centered')
-
+            questionElement.classList.add('is-italic')
+           
+           
             const cardImage = document.createElement('img');
             const cardLink = document.createElement('a');
             cardImage.src = card.image_link;
@@ -42,9 +45,11 @@ async function reading(event) {
             const cardName = document.createElement('p');
             cardName.textContent = `${card.name}`;
             cardName.classList.add('has-text-centered')
+            cardName.classList.add('has-text-weight-bold')
 
             const cardDescription = document.createElement('p');
             cardDescription.textContent = `${card.description}`;
+            cardDescription.classList.add('has-text-weight-light')
             cardDescription.classList.add('has-text-centered')
 
             // Criar um container de carta e adicionar os elementos

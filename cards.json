@@ -4,7 +4,6 @@
             "name": "O Eremita",
             "arcana": "Maior",
             "image_link": "/static/img/cards/09-TheHermit.jpg",
-            "keywords": "O Iniciado, o buscador incansável. Sabedoria, iluminação, estudo, autoconhecimento. Meditação, recolhimento, saber desligar-se. Reavaliação da vida e dos objetivos. Concentração, silêncio. Profundidade. Prudência. Reserva. Limites. Influência saturnina. Austeridade, moderação, sobriedade, discrição. Médico experiente, sábio que cala seus segredos. Celibato. Castidade.",
             "link": "https://wiki.deldebbio.com.br/index.php/O_Eremita_(Tarot)",
             "description": "Busca interior e sabedoria."
         },
@@ -12,7 +11,6 @@
             "name": "O Hierofante",
             "arcana": "Maior",
             "image_link": "/static/img/cards/05-TheHierophant.jpg",
-            "keywords": "É o arcano do ato da bênção, da iniciação, da demonstração, do ensino. Lei, simbolismo, filosofia, religião. Dever. Moral. Consciência. O Santo. Autoridade moral, sacerdócio. Proteção, lealdade. Observância das convenções, respeitabilidade. Ensino, conselhos equilibrados. Benevolência, generosidade indulgente, perdão. Mansidão. Busca de sentido, revelação, hora da verdade, confiança, indicações do caminho da salvação.",
             "link": "https://wiki.deldebbio.com.br/index.php/O_Hierofante_(Tarot)",
             "description": "Tradição, ensinamento e conformidade."
         },
@@ -20,7 +18,6 @@
             "name": "Rainha de Espadas",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Swords13.jpg",
-            "keywords": "Escutar a intuição antes de agir; despertar através da concentração experiências sobre as questões que devem ser enfrentadas.",
             "link": "https://wiki.deldebbio.com.br/index.php/Rainha_de_Espadas",
             "description": "Claridade mental e independência."
         },
@@ -28,7 +25,6 @@
             "name": "A Carruagem",
             "arcana": "Maior",
             "image_link": "/static/img/cards/07-TheChariot.jpg",
-            "keywords": "Contemplação ativa, repouso. Vitória, triunfo. O setenário sagrado, a realeza, o sacerdócio. Magistério. Superioridade. Realização. Êxito legítimo, avanço merecido. Talento, dons, capacidade, aptidões postas em marcha. Tato para governar, diplomacia, direção competente. Conciliação dos antagonismos, condução de forças divergentes. Progresso, mobilidade, viagens por terra.",
             "link": "https://wiki.deldebbio.com.br/index.php/O_Carro_(Tarot)",
             "description": "Vitória através de controle e determinação."
         },
@@ -36,7 +32,6 @@
             "name": "Cavaleiro de Moedas",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Pentacles12.jpg",
-            "keywords": "Pragmatismo e responsabilidade",
             "link": "https://wiki.deldebbio.com.br/index.php/Cavaleiro_de_Moedas",
             "description": "Condução calma das energias práticas e mentais para construir uma obra sólida e durável."
         },
@@ -44,7 +39,6 @@
             "name": "Seis de Bastões",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Wands06.jpg",
-            "keywords": "Denota obstáculo, restrição, temor; assuntos relacionados a empregados. Pressagia: obstáculos, embaraços, atrasos, indecisões e, às vezes, insucessos nas empresas, se houver falta de vontade, de firmeza e de perseverança.",
             "link": "https://wiki.deldebbio.com.br/index.php/Seis_de_Bast%C3%B5es",
             "description": "Sucesso e reconhecimento."
         },
@@ -52,7 +46,6 @@
             "name": "Seis de Moedas",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Pentacles06.jpg",
-            "keywords": "Indica aspirações, ambições, esperanças, desejos. Denota bens inesperados, porém perigo de perdê-los por meio de falsos amigos.",
             "link": "https://wiki.deldebbio.com.br/index.php/Seis_de_Moedas",
             "description": "Representa o aperfeiçoamento interno que o homem realiza através do esforço de conciliação das correntes do Alto com as de baixo, que permite o equilíbrio nas realizações."
         },
@@ -60,7 +53,6 @@
             "name": "Quatro de Espadas",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Swords04.jpg",
-            "keywords": "Vigilância, retiro, solidão, repouso do ermitão, exílio, túmulo e féretro. Boa administração, circunspecção, economia, avareza, precaução, testamento.",
             "link": "https://wiki.deldebbio.com.br/index.php/Quatro_de_Espadas",
             "description": "A alegria, o ardor interior do ser humano, criado através do trabalho e da atividade construtiva."
         },
@@ -75,7 +67,6 @@
             "name": "O Julgamento",
             "arcana": "Maior",
             "image_link": "/static/img/cards/20-Judgement.jpg",
-            "keywords": "Os julgamentos essenciais, a avaliação dos rumos da existência. O despertar. Exame de consciência. Sopro redentor. Renovação. A promessa da vida eterna. Entusiasmo, exaltação emocional, intensidade dos sentimentos, espiritualidade",
             "link": "https://wiki.deldebbio.com.br/index.php/O_Julgamento_(Tarot)",
             "description": " Capacidades ocultas, dom de adivinhação. Atos prodigiosos, medicina milagrosa. Santidade, doação. Renovação, nascimento, retorno de assuntos do passado ou sua atualização. Recados, propaganda, proselitismo, apostolado. Estar sujeito à avaliação de outros, ser julgado por suas ações."
         },
@@ -83,7 +74,6 @@
             "name": "A Torre",
             "arcana": "Maior",
             "image_link": "/static/img/cards/16-TheTower.jpg",
-            "keywords": "Rompimento das formas aprisionadoras, liberação para um novo início. Desafios dos momentos de transição. Destruição da rigidez. Abertura. Conhecimento. Desmoronamento e queda. Alterações, subversões, mudanças, debilidades. Libertação da alma aprisionada; conhecimento súbito. Parto, crise saudável. Modificação traumática, separação repentina. Perdas, insegurança. ",
             "link": "https://wiki.deldebbio.com.br/index.php/A_Torre_(Tarot)",
             "description": "Desconfiança em si mesmo, inquietação provocada por negócios arriscados. Benefício recebido devido aos erros de outras pessoas. Austeridade, uma tendência à timidez. Temperamento piedoso, religiosidade prática que não deprecia o material."
         },
@@ -91,7 +81,6 @@
             "name": "A Justiça",
             "arcana": "Maior",
             "image_link": "/static/img/cards/11-Justice.jpg",
-            "keywords": "Justiça, equilíbrio, ordem. Capacidade de julgamento. Conciliação entre o ideal e o possível. Harmonia. Objetividade, regularidade, método. Balança, avaliação, atração e repulsão, vida e temor, promessa e ameaça.",
             "link": "https://wiki.deldebbio.com.br/index.php/A_Justi%C3%A7a_(Tarot)",
             "description": "Estabilidade, ordem, persistência, normalidade. Lei, disciplina, lógica, coordenação. Flexibilidade, adaptação às necessidades. Opiniões moderadas. Razão, sentido prático. Administração, economia. Obediência. Soluções boas e justas; equilíbrio, correção, abandono de velhos hábitos."
         },
@@ -117,7 +106,7 @@
             "description": "Equilíbrio e moderação."
         },
         {
-            "name": "Seis de Copas",
+            "name": "Seis de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups06.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Seis_de_Ta%C3%A7as",
@@ -135,7 +124,6 @@
             "arcana": "Maior",
             "image_link": "/static/img/cards/01-TheMagician.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/O_Mago_(Tarot)",
-            "keywords": "Destreza, habilidade, finura, diplomacia, eloqüência, capacidade para convencer, espírito alerta, inteligência rápida, homem inquieto nas suas atividades e negócios.",
             "description": "Habilidade e manifestação."
         },
         {
@@ -153,7 +141,7 @@
             "description": "Vícios e materialismo."
         },
         {
-            "name": "Quatro de Copas",
+            "name": "Quatro de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups04.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Quatro_de_Ta%C3%A7as",
@@ -167,7 +155,7 @@
             "description": "Liderança e visão."
         },
         {
-            "name": "Sete de Copas",
+            "name": "Sete de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups07.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Sete_de_Ta%C3%A7as",
@@ -185,7 +173,6 @@
             "arcana": "Maior",
             "image_link": "/static/img/cards/00-TheFool.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/O_Louco_(Tarot)",
-            "keywords": "Passividade, completo abandono, repouso, deixar de resistir. Irresponsabilidade. Inocência. Escolha intuitiva acertada. Domínio dos instintos; capacidade mediúnica. Abstenção.",
             "description": "Novos começos e aventura."
         },
         {
@@ -217,14 +204,14 @@
             "description": "Conflito e perda."
         },
         {
-            "name": "Rei de Copas",
+            "name": "Rei de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups14.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Rei_de_Ta%C3%A7as",
             "description": "Compaixão e controle emocional."
         },
         {
-            "name": "Dois de Copas",
+            "name": "Dois de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups02.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Dois_de_Ta%C3%A7as",
@@ -287,7 +274,7 @@
             "description": "Dor emocional e separação."
         },
         {
-            "name": "Dez de Copas",
+            "name": "Dez de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups10.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Dez_de_Ta%C3%A7as",
@@ -301,7 +288,7 @@
             "description": "Estratégia e engano."
         },
         {
-            "name": "Valete de Copas",
+            "name": "Valete de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups11.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Princesa_de_Ta%C3%A7as",
@@ -315,7 +302,7 @@
             "description": "Confiança e carisma."
         },
         {
-            "name": "Três de Copas",
+            "name": "Três de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups03.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Tr%C3%AAs_de_Ta%C3%A7as",
@@ -385,7 +372,7 @@
             "description": "Movimento rápido e progresso."
         },
         {
-            "name": "Oito de Copas",
+            "name": "Oito de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups08.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Oito_de_Ta%C3%A7as",
@@ -420,7 +407,7 @@
             "description": "Ansiedade e preocupações."
         },
         {
-            "name": "Cinco de Copas",
+            "name": "Cinco de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups05.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Cinco_de_Ta%C3%A7as",
@@ -431,7 +418,6 @@
             "arcana": "Maior",
             "image_link": "/static/img/cards/04-TheEmperor.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/O_Imperador_(Tarot)",
-            "keywords": "O poder, o portal, o governo, a iniciação, o tetragrama, o quaternário, a pedra cúbica ou sua base. Proteção paternal. Firmeza. Afirmação. Consistência. Poder executivo. Influência saturnina-marciana. Concretização, habilidades práticas, ordem, estabilidade, prestígio. Direito, rigor, certeza, firmeza, realização. Energia perseverante, vontade inquebrantável, execução do que está resolvido. Protetor poderoso.",
             "description": "Autoridade e estabilidade."
         },
         {
@@ -470,7 +456,7 @@
             "description": "Sobrecarregado e responsabilidades."
         },
         {
-            "name": "As de Copas",
+            "name": "As de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups01.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/%C3%81s_de_Ta%C3%A7as",
@@ -540,21 +526,21 @@
             "description": "Defesa e resistência."
         },
         {
-            "name": "Nove de Copas",
+            "name": "Nove de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups09.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Nove_de_Ta%C3%A7as",
             "description": "Satisfação e realização emocional."
         },
         {
-            "name": "Rainha de Copas",
+            "name": "Rainha de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups13.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Rainha_de_Ta%C3%A7as",
             "description": "Empatia e compreensão."
         },
         {
-            "name": "Cavaleiro de Copas",
+            "name": "Cavaleiro de Taças",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Cups12.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Cavaleiro_de_Ta%C3%A7as",

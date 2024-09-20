@@ -19,24 +19,22 @@
                     <div class="control">
                         <div class="select">
                             <select id="readingType">
-                                <option value="past-present-future">Passado, Presente e Futuro</option>
-                                <option value="career">Carreira</option>
-                                <option value="relationship">Relacionamento</option>
-                                <option value="celtic-cross">Cruz Celta</option>
-                                <option value="yes-no">Sim ou não</option>
-                                <option value="three-card">Leitura de Três Cartas</option>
-                                <option value="spiritual-guidance">Orientação Espiritual</option>
-                                <option value="health">Saúde</option>
-                                <option value="decision">Decisão</option>
-                                <option value="finance">Finanças</option>
-                                <option value="self-discovery">Auto-Descoberta</option>
-                                <option value="astrological-mandala">Mandala Astrológica</option>
+                                <option value="past-present-future">Passado, Presente e Futuro (3 Cartas)</option>
+                                <option value="yes-no">Sim ou não (3 Cartas)</option>
+                                <option value="spiritual-guidance">Orientação Espiritual (3 Cartas)</option>
+                                <option value="health">Saúde (3 Cartas)</option>
+                                <option value="decision">Decisão (3 Cartas)</option>
+                                <option value="finance">Finanças (3 Cartas)</option>
+                                <option value="self-discovery">Auto-Descoberta (3 Cartas)</option>
+                                <option value="career">Carreira (4 Cartas)</option>
+                                <option value="relationship">Relacionamento (4 Cartas)</option>
+                                <option value="celtic-cross">Cruz Celta (10 Cartas)</option>
+                                <option value="astrological-mandala">Mandala Astrológica (12 Cartas)</option>
                             </select>
                         </div>
                     </div>
                 </div>
 
-                <!-- Botão para sortear cartas -->
                 <div class="field">
                     <div class="control">
                         <button class="button is-primary is-medium" id="drawCardButton" onclick="reading(event)">
@@ -45,9 +43,7 @@
                     </div>
                 </div>
 
-                <!-- Display das cartas -->
                 <div class="card-display columns is-multiline" id="cardDisplay">
-                    <!-- As colunas das cartas serão geradas dinamicamente -->
                 </div>
             </div>
         </div>

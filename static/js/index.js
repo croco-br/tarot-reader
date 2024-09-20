@@ -1,7 +1,7 @@
 async function reading(event) {
     event.preventDefault();
     show_loader()
-    setTimeout(2000)
+
     const readingType = document.getElementById('readingType').value;
 
     const response = await fetch('/reading', {

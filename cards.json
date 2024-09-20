@@ -33,7 +33,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Pentacles12.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Cavaleiro_de_Moedas",
-            "description": "Condução calma das energias práticas e mentais para construir uma obra sólida e durável."
+            "description": "Foco, equilíbrio, construção."
         },
         {
             "name": "Seis de Bastões",
@@ -47,14 +47,14 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Pentacles06.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Seis_de_Moedas",
-            "description": "Representa o aperfeiçoamento interno que o homem realiza através do esforço de conciliação das correntes do Alto com as de baixo, que permite o equilíbrio nas realizações."
+            "description": "Conciliação, equilíbrio, aperfeiçoamento."
         },
         {
             "name": "Quatro de Espadas",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Swords04.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Quatro_de_Espadas",
-            "description": "A alegria, o ardor interior do ser humano, criado através do trabalho e da atividade construtiva."
+            "description": "Alegria, esforço, criação."
         },
         {
             "name": "Nove de Moedas",
@@ -68,21 +68,21 @@
             "arcana": "Maior",
             "image_link": "/static/img/cards/20-Judgement.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/O_Julgamento_(Tarot)",
-            "description": " Capacidades ocultas, dom de adivinhação. Atos prodigiosos, medicina milagrosa. Santidade, doação. Renovação, nascimento, retorno de assuntos do passado ou sua atualização. Recados, propaganda, proselitismo, apostolado. Estar sujeito à avaliação de outros, ser julgado por suas ações."
+            "description": "Intuição, renovação, julgamento."
         },
         {
             "name": "A Torre",
             "arcana": "Maior",
             "image_link": "/static/img/cards/16-TheTower.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/A_Torre_(Tarot)",
-            "description": "Desconfiança em si mesmo, inquietação provocada por negócios arriscados. Benefício recebido devido aos erros de outras pessoas. Austeridade, uma tendência à timidez. Temperamento piedoso, religiosidade prática que não deprecia o material."
+            "description": "Insegurança, mudanças, austeridade."
         },
         {
             "name": "A Justiça",
             "arcana": "Maior",
             "image_link": "/static/img/cards/11-Justice.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/A_Justi%C3%A7a_(Tarot)",
-            "description": "Estabilidade, ordem, persistência, normalidade. Lei, disciplina, lógica, coordenação. Flexibilidade, adaptação às necessidades. Opiniões moderadas. Razão, sentido prático. Administração, economia. Obediência. Soluções boas e justas; equilíbrio, correção, abandono de velhos hábitos."
+            "description": "Estabilidade, disciplina, obediência."
         },
         {
             "name": "As de Moedas",

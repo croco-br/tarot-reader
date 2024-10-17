@@ -1,7 +1,7 @@
 # Tarot Reader
 
 # Descrição
-Esse repositório é um website que permite obter leituras do Tarot Rider-Waiter, considerando os tipos de leitura mais comuns.
+Esse repositório é um website que permite obter leituras do Tarot Rider-Waite, considerando os tipos de leitura mais comuns.
 
 É possível acessar a versão web no seguinte endereço: https://arcana-path.onrender.com/
 

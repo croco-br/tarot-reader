@@ -19,6 +19,8 @@ Python
 
 Flask
 
+Bulma
+
 # Instruções de Instalação
 Para instalar e executar o projeto, siga estas etapas:
 

@@ -400,10 +400,10 @@
             "description": "Intuição e ilusões."
         },
         {
-            "name": "Nove de Espadas",
+            "name": "Dez de Espadas",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Swords10.jpg",
-            "link": "https://wiki.deldebbio.com.br/index.php/Nove_de_Espadas",
+            "link": "https://wiki.deldebbio.com.br/index.php/Dez_de_Espadas",
             "description": "Ansiedade e preocupações."
         },
         {
@@ -491,11 +491,11 @@
             "description": "Sacrifício e novas perspectivas."
         },
         {
-            "name": "Oito de Espadas",
+            "name": "Nove de Espadas",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Swords09.jpg",
-            "link": "https://wiki.deldebbio.com.br/index.php/Oito_de_Espadas",
-            "description": "Restrição e limitações."
+            "link": "https://wiki.deldebbio.com.br/index.php/Nove_de_Espadas",
+            "description": "Pesar e sofrimento."
         },
         {
             "name": "Três de Bastões",

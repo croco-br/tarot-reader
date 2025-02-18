@@ -47,14 +47,14 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Pentacles06.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Seis_de_Moedas",
-            "description": "Conciliação, equilíbrio, aperfeiçoamento."
+            "description": "Compartilhar, generosidade, caridade."
         },
         {
             "name": "Quatro de Espadas",
             "arcana": "Menor",
             "image_link": "/static/img/cards/Swords04.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Quatro_de_Espadas",
-            "description": "Alegria, esforço, criação."
+            "description": "Meditação, afastamento, solidão."
         },
         {
             "name": "Nove de Moedas",
@@ -68,21 +68,21 @@
             "arcana": "Maior",
             "image_link": "/static/img/cards/20-Judgement.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/O_Julgamento_(Tarot)",
-            "description": "Intuição, renovação, julgamento."
+            "description": "Renovação, julgamento, instrospecção, autoavaliação."
         },
         {
             "name": "A Torre",
             "arcana": "Maior",
             "image_link": "/static/img/cards/16-TheTower.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/A_Torre_(Tarot)",
-            "description": "Insegurança, mudanças, austeridade."
+            "description": "Insegurança, mudanças, revelações, rupturas."
         },
         {
             "name": "A Justiça",
             "arcana": "Maior",
             "image_link": "/static/img/cards/11-Justice.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/A_Justi%C3%A7a_(Tarot)",
-            "description": "Estabilidade, disciplina, obediência."
+            "description": "Imparcialidade, equilibrio."
         },
         {
             "name": "As de Moedas",
@@ -404,7 +404,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Swords10.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Dez_de_Espadas",
-            "description": "Ansiedade e preocupações."
+            "description": "Ansiedade, preocupações, fins dolorosos."
         },
         {
             "name": "Cinco de Taças",
@@ -509,7 +509,7 @@
             "arcana": "Menor",
             "image_link": "/static/img/cards/Pentacles13.jpg",
             "link": "https://wiki.deldebbio.com.br/index.php/Rainha_de_Moedas",
-            "description": "Nutridora e praticidade."
+            "description": "Nutridora, generosidade e praticidade."
         },
         {
             "name": "Oito de Espadas",

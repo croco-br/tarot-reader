@@ -42,7 +42,7 @@
                 "Qual a tendência de resultado a longo prazo?"
             ]
         },
-        "yes-no": {
+        "question-influence": {
             "questions": [
                 "Qual é a pergunta para a qual preciso de uma resposta sim ou não?",
                 "O que está influenciando o resultado?",

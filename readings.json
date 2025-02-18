@@ -1,5 +1,10 @@
 {
     "reading_list": {
+        "one-card": {
+            "questions": [
+                "Resposta"
+            ]
+        },
         "past-present-future": {
             "questions": [
                 "O que influenciou a situação atual?",
